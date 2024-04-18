@@ -23,5 +23,9 @@
   "dependencies": {
     "@ajar/marker": "^1.3.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pavlovys/actions-workshop-2.git"
+  },
   "description": ""
 }
